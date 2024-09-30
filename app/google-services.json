@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718613994334",
+    "project_id": "tweetapp-2f03e",
+    "storage_bucket": "tweetapp-2f03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718613994334:android:bb5f8bf214dbea31484dcf",
+        "android_client_info": {
+          "package_name": "com.example.tweetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRsTP9sdLiGpx_FYfa-yqARGQ_RQGdUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
